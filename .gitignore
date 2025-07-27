@@ -2,6 +2,5 @@ xml
 stream/_manifest.ymf
 stream/showcase.ymap
 build.cmd
-release
 release.zip
 .gitignore
