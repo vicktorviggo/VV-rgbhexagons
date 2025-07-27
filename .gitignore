@@ -4,3 +4,4 @@ stream/showcase.ymap
 build.cmd
 release
 release.zip
+.gitignore
